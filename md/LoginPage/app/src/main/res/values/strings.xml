@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Login Page</string>
+    <string name="app_project">Pawon</string>
+    <string name="welcome">Welcome</string>
+
+
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+
+    <string name="text_login">Please login with your information</string>
+    <string name="text_email">Email Address</string>
+    <string name="text_password">Password</string>
+    <string name="text_button_remember_me">Remember me</string>
+    <string name="text_register">Set up an account</string>
+    <string name="text_username">Username</string>
+    <string name="text_sudah_punya_akun">Sudah punya akun?</string>
+
+
+</resources>

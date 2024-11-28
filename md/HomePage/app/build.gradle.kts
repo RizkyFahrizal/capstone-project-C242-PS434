@@ -7,6 +7,8 @@ android {
     namespace = "com.example.homepage"
     compileSdk = 35
 
+
+
     defaultConfig {
         applicationId = "com.example.homepage"
         minSdk = 24
@@ -15,6 +17,7 @@ android {
         versionName = "1.0"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
+
     }
 
     buildTypes {
@@ -32,6 +35,10 @@ android {
     }
     kotlinOptions {
         jvmTarget = "11"
+    }
+
+    buildFeatures {
+        viewBinding = true
     }
 }
 

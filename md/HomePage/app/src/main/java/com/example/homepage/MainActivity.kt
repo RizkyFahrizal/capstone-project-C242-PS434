@@ -1,13 +1,19 @@
 package com.example.homepage
 
+import android.graphics.Rect
 import android.os.Bundle
+import android.view.View
 import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
+import androidx.recyclerview.widget.GridLayoutManager
 import androidx.recyclerview.widget.LinearLayoutManager
+import androidx.recyclerview.widget.RecyclerView
 import com.example.homepage.adapter.CategoriesAdapter
+import com.example.homepage.adapter.TrendingAdapter
 import com.example.homepage.data.Category
+import com.example.homepage.data.Trending
 import com.example.homepage.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
@@ -27,17 +33,22 @@ class MainActivity : AppCompatActivity() {
             insets
         }
 
-        // Tambahkan inisialisasi RecyclerView
-        setupRecyclerView()
+        // Inisialisasi RecyclerView untuk Categories
+        setupCategoriesRecyclerView()
+
+        // Inisialisasi RecyclerView untuk News & Trending
+        setupTrendingRecyclerView()
     }
 
-    private fun setupRecyclerView() {
-        // Contoh data kategori
+    private fun setupCategoriesRecyclerView() {
+        // Data kategori
         val categories = listOf(
-            Category("Pizza", R.drawable.ic_logo),  // Ganti `R.drawable.ic_pizza` dengan resource yang sesuai
-            Category("Burger", R.drawable.ic_logo),
+            Category("Fast Food", R.drawable.ic_logo),
+            Category("Traditional", R.drawable.ic_logo),
+            Category("Western", R.drawable.ic_logo),
+            Category("Dessert", R.drawable.ic_logo),
             Category("Drinks", R.drawable.ic_logo),
-            Category("Dessert", R.drawable.ic_logo)
+            Category("Other", R.drawable.ic_logo)
         )
 
         // Inisialisasi adapter
@@ -46,12 +57,45 @@ class MainActivity : AppCompatActivity() {
             showToast("Clicked on: ${category.name}")
         }
 
-        // Set RecyclerView
-        binding.rvCategories.layoutManager = LinearLayoutManager(this)
+        // Atur RecyclerView dengan GridLayoutManager (3 kolom)
+        binding.rvCategories.layoutManager = GridLayoutManager(this, 3)
+        binding.rvCategories.addItemDecoration(GridSpacingItemDecoration(3, 16)) // Tambahkan dekorasi
         binding.rvCategories.adapter = adapter
+    }
+
+    private fun setupTrendingRecyclerView() {
+        // Data trending
+        val trendingItems = listOf(
+            Trending("Rawon Pak Pangat", R.drawable.complete_1, "2.300 disukai"),
+            Trending("Seafood Bang Jaja", R.drawable.complete_1, "1.500 disukai"),
+            Trending("Bebek Sinjay", R.drawable.complete_1, "3.000 disukai")
+        )
+
+        // Inisialisasi adapter
+        val trendingAdapter = TrendingAdapter(trendingItems) { trending ->
+            // Handle klik item
+            showToast("Clicked on: ${trending.title}")
+        }
+
+        // Atur RecyclerView dengan LinearLayoutManager horizontal
+        binding.rvTrending.layoutManager = LinearLayoutManager(this, LinearLayoutManager.HORIZONTAL, false)
+        binding.rvTrending.adapter = trendingAdapter
     }
 
     private fun showToast(message: String) {
         android.widget.Toast.makeText(this, message, android.widget.Toast.LENGTH_SHORT).show()
+    }
+
+    // GridSpacingItemDecoration untuk spasi antar item di grid
+    class GridSpacingItemDecoration(private val spanCount: Int, private val spacing: Int) :
+        RecyclerView.ItemDecoration() {
+        override fun getItemOffsets(outRect: Rect, view: View, parent: RecyclerView, state: RecyclerView.State) {
+            val position = parent.getChildAdapterPosition(view)
+            val column = position % spanCount
+            outRect.left = spacing - column * spacing / spanCount
+            outRect.right = (column + 1) * spacing / spanCount
+            if (position < spanCount) outRect.top = spacing
+            outRect.bottom = spacing
+        }
     }
 }

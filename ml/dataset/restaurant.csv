@@ -1,0 +1,449 @@
+restaurant_id,name,address,food_id
+restaurant_0001,"Irwin, Hayden and Walker","3800 Williams Circles Apt. 729, Lake Jessicaberg, SC 14351",sarabba
+restaurant_0001,"Irwin, Hayden and Walker","3800 Williams Circles Apt. 729, Lake Jessicaberg, SC 14351",kue bangkit
+restaurant_0001,"Irwin, Hayden and Walker","3800 Williams Circles Apt. 729, Lake Jessicaberg, SC 14351",kolo
+restaurant_0001,"Irwin, Hayden and Walker","3800 Williams Circles Apt. 729, Lake Jessicaberg, SC 14351",ayam iloni
+restaurant_0002,Nguyen-Stevens,"9200 Turner Streets, Anthonyborough, ID 39694",kue lepek binti
+restaurant_0002,Nguyen-Stevens,"9200 Turner Streets, Anthonyborough, ID 39694",kopi robusta lampung
+restaurant_0002,Nguyen-Stevens,"9200 Turner Streets, Anthonyborough, ID 39694",kue ombus-ombus
+restaurant_0002,Nguyen-Stevens,"9200 Turner Streets, Anthonyborough, ID 39694",kabuto
+restaurant_0002,Nguyen-Stevens,"9200 Turner Streets, Anthonyborough, ID 39694",sate tuna
+restaurant_0003,Alexander Inc,"73921 Joshua Village, Tammyberg, DE 26428",kue serabi solo
+restaurant_0003,Alexander Inc,"73921 Joshua Village, Tammyberg, DE 26428",kue mayang papan
+restaurant_0003,Alexander Inc,"73921 Joshua Village, Tammyberg, DE 26428",nasi grombyang
+restaurant_0003,Alexander Inc,"73921 Joshua Village, Tammyberg, DE 26428",es lancang kuning
+restaurant_0003,Alexander Inc,"73921 Joshua Village, Tammyberg, DE 26428",coto makassar
+restaurant_0003,Alexander Inc,"73921 Joshua Village, Tammyberg, DE 26428",bir kotjok
+restaurant_0004,Jones Ltd,"00037 Katherine Camp Suite 540, Veronicafurt, AL 21344",cacapan asam
+restaurant_0004,Jones Ltd,"00037 Katherine Camp Suite 540, Veronicafurt, AL 21344",roti srikaya
+restaurant_0004,Jones Ltd,"00037 Katherine Camp Suite 540, Veronicafurt, AL 21344",ce huan tiau
+restaurant_0004,Jones Ltd,"00037 Katherine Camp Suite 540, Veronicafurt, AL 21344",kopi arabika kintamani
+restaurant_0004,Jones Ltd,"00037 Katherine Camp Suite 540, Veronicafurt, AL 21344",sate bulayak
+restaurant_0004,Jones Ltd,"00037 Katherine Camp Suite 540, Veronicafurt, AL 21344",kolo
+restaurant_0004,Jones Ltd,"00037 Katherine Camp Suite 540, Veronicafurt, AL 21344",nasi palekko
+restaurant_0005,Hood-Sawyer,"5547 Sandra Squares, Lake Samantha, UT 25433",tekwan
+restaurant_0005,Hood-Sawyer,"5547 Sandra Squares, Lake Samantha, UT 25433",jepa
+restaurant_0005,Hood-Sawyer,"5547 Sandra Squares, Lake Samantha, UT 25433",baram
+restaurant_0005,Hood-Sawyer,"5547 Sandra Squares, Lake Samantha, UT 25433",lupis
+restaurant_0006,Wallace Inc,"09787 Hall Junction Apt. 971, Saraland, OK 51477",es sekemu
+restaurant_0006,Wallace Inc,"09787 Hall Junction Apt. 971, Saraland, OK 51477",kue talam pisang
+restaurant_0006,Wallace Inc,"09787 Hall Junction Apt. 971, Saraland, OK 51477",buah hongas
+restaurant_0006,Wallace Inc,"09787 Hall Junction Apt. 971, Saraland, OK 51477",godok pisang
+restaurant_0006,Wallace Inc,"09787 Hall Junction Apt. 971, Saraland, OK 51477",cao menek
+restaurant_0006,Wallace Inc,"09787 Hall Junction Apt. 971, Saraland, OK 51477",wedang dayak
+restaurant_0006,Wallace Inc,"09787 Hall Junction Apt. 971, Saraland, OK 51477",nasi gemuk
+restaurant_0006,Wallace Inc,"09787 Hall Junction Apt. 971, Saraland, OK 51477",rusip
+restaurant_0006,Wallace Inc,"09787 Hall Junction Apt. 971, Saraland, OK 51477",stmj
+restaurant_0006,Wallace Inc,"09787 Hall Junction Apt. 971, Saraland, OK 51477",wedang ronde
+restaurant_0007,"Fisher, Cook and Perez","913 Debra Hill Apt. 230, Lake Davidview, PR 79530",nasi uduk
+restaurant_0007,"Fisher, Cook and Perez","913 Debra Hill Apt. 230, Lake Davidview, PR 79530",teh secang
+restaurant_0007,"Fisher, Cook and Perez","913 Debra Hill Apt. 230, Lake Davidview, PR 79530",kerak telor
+restaurant_0007,"Fisher, Cook and Perez","913 Debra Hill Apt. 230, Lake Davidview, PR 79530",gerem asem
+restaurant_0008,"Allen, Clark and Harrell","161 Valentine Pine Apt. 109, North Cory, AS 31031",kopi robusta lampung
+restaurant_0008,"Allen, Clark and Harrell","161 Valentine Pine Apt. 109, North Cory, AS 31031",tekwan
+restaurant_0008,"Allen, Clark and Harrell","161 Valentine Pine Apt. 109, North Cory, AS 31031",mangut lele
+restaurant_0008,"Allen, Clark and Harrell","161 Valentine Pine Apt. 109, North Cory, AS 31031",congyang
+restaurant_0008,"Allen, Clark and Harrell","161 Valentine Pine Apt. 109, North Cory, AS 31031",kembang goyang
+restaurant_0008,"Allen, Clark and Harrell","161 Valentine Pine Apt. 109, North Cory, AS 31031",mina sarua
+restaurant_0008,"Allen, Clark and Harrell","161 Valentine Pine Apt. 109, North Cory, AS 31031",kue mayang papan
+restaurant_0008,"Allen, Clark and Harrell","161 Valentine Pine Apt. 109, North Cory, AS 31031",nasi balap puyung
+restaurant_0008,"Allen, Clark and Harrell","161 Valentine Pine Apt. 109, North Cory, AS 31031",ayam betutu
+restaurant_0009,Holt Ltd,"458 Joshua Parkway Suite 188, Villarrealfurt, MD 49249",plecing kangkung
+restaurant_0009,Holt Ltd,"458 Joshua Parkway Suite 188, Villarrealfurt, MD 49249",kopi arabika kintamani
+restaurant_0009,Holt Ltd,"458 Joshua Parkway Suite 188, Villarrealfurt, MD 49249",mi ongklok
+restaurant_0009,Holt Ltd,"458 Joshua Parkway Suite 188, Villarrealfurt, MD 49249",sekoteng
+restaurant_0009,Holt Ltd,"458 Joshua Parkway Suite 188, Villarrealfurt, MD 49249",kue lapis cempedak
+restaurant_0010,Cruz-Williams,"2443 Fernandez Station, Sanchezburgh, NM 32654",ketupat ketan
+restaurant_0010,Cruz-Williams,"2443 Fernandez Station, Sanchezburgh, NM 32654",pakis krispi 
+restaurant_0010,Cruz-Williams,"2443 Fernandez Station, Sanchezburgh, NM 32654",jenurai
+restaurant_0010,Cruz-Williams,"2443 Fernandez Station, Sanchezburgh, NM 32654",air guraka
+restaurant_0010,Cruz-Williams,"2443 Fernandez Station, Sanchezburgh, NM 32654",bubur pedas
+restaurant_0010,Cruz-Williams,"2443 Fernandez Station, Sanchezburgh, NM 32654",kuah beulangong
+restaurant_0010,Cruz-Williams,"2443 Fernandez Station, Sanchezburgh, NM 32654",kaledo
+restaurant_0011,Harris-Mason,"140 Little Vista Suite 840, Randallmouth, MS 04762",wadi
+restaurant_0011,Harris-Mason,"140 Little Vista Suite 840, Randallmouth, MS 04762",ketupat ketan
+restaurant_0011,Harris-Mason,"140 Little Vista Suite 840, Randallmouth, MS 04762",stmj
+restaurant_0011,Harris-Mason,"140 Little Vista Suite 840, Randallmouth, MS 04762",nagasari
+restaurant_0011,Harris-Mason,"140 Little Vista Suite 840, Randallmouth, MS 04762",teh gaharu
+restaurant_0011,Harris-Mason,"140 Little Vista Suite 840, Randallmouth, MS 04762",angsle
+restaurant_0011,Harris-Mason,"140 Little Vista Suite 840, Randallmouth, MS 04762",kue lepek binti
+restaurant_0011,Harris-Mason,"140 Little Vista Suite 840, Randallmouth, MS 04762",nasi timbel
+restaurant_0011,Harris-Mason,"140 Little Vista Suite 840, Randallmouth, MS 04762",kue adee meureudu
+restaurant_0011,Harris-Mason,"140 Little Vista Suite 840, Randallmouth, MS 04762",ilabulo
+restaurant_0012,Hudson LLC,"89443 Laura Parkways, Darrellton, SD 97603",lahang bambu
+restaurant_0012,Hudson LLC,"89443 Laura Parkways, Darrellton, SD 97603",wadi
+restaurant_0012,Hudson LLC,"89443 Laura Parkways, Darrellton, SD 97603",kue lumpur
+restaurant_0012,Hudson LLC,"89443 Laura Parkways, Darrellton, SD 97603",kopi sidikalang
+restaurant_0012,Hudson LLC,"89443 Laura Parkways, Darrellton, SD 97603",wedang uwuh
+restaurant_0012,Hudson LLC,"89443 Laura Parkways, Darrellton, SD 97603",ayam bambu
+restaurant_0012,Hudson LLC,"89443 Laura Parkways, Darrellton, SD 97603",ce huan tiau
+restaurant_0013,"Jackson, Pollard and Smith","118 Ward Trail Apt. 714, East Lukeburgh, AS 44729",dada tuna
+restaurant_0013,"Jackson, Pollard and Smith","118 Ward Trail Apt. 714, East Lukeburgh, AS 44729",kue adee meureudu
+restaurant_0013,"Jackson, Pollard and Smith","118 Ward Trail Apt. 714, East Lukeburgh, AS 44729",sate payau
+restaurant_0013,"Jackson, Pollard and Smith","118 Ward Trail Apt. 714, East Lukeburgh, AS 44729",ketupat ketan
+restaurant_0014,"Black, Dawson and Delgado","6770 Melissa Oval, Colechester, CA 31079",kelicuk
+restaurant_0014,"Black, Dawson and Delgado","6770 Melissa Oval, Colechester, CA 31079",es martebe
+restaurant_0014,"Black, Dawson and Delgado","6770 Melissa Oval, Colechester, CA 31079",es sekoteng medan
+restaurant_0014,"Black, Dawson and Delgado","6770 Melissa Oval, Colechester, CA 31079",nasi lapola
+restaurant_0014,"Black, Dawson and Delgado","6770 Melissa Oval, Colechester, CA 31079",teh talua
+restaurant_0014,"Black, Dawson and Delgado","6770 Melissa Oval, Colechester, CA 31079",sayur ares
+restaurant_0014,"Black, Dawson and Delgado","6770 Melissa Oval, Colechester, CA 31079",karedok
+restaurant_0014,"Black, Dawson and Delgado","6770 Melissa Oval, Colechester, CA 31079",talam jagung degan
+restaurant_0014,"Black, Dawson and Delgado","6770 Melissa Oval, Colechester, CA 31079",gence ruan
+restaurant_0015,Wilson LLC,"0091 Charles Street Suite 532, South Dianaside, MO 09323",roti srikaya
+restaurant_0015,Wilson LLC,"0091 Charles Street Suite 532, South Dianaside, MO 09323",lapa-lapa
+restaurant_0015,Wilson LLC,"0091 Charles Street Suite 532, South Dianaside, MO 09323",kentan bintul
+restaurant_0015,Wilson LLC,"0091 Charles Street Suite 532, South Dianaside, MO 09323",soto kudus
+restaurant_0015,Wilson LLC,"0091 Charles Street Suite 532, South Dianaside, MO 09323",es selendang mayang
+restaurant_0015,Wilson LLC,"0091 Charles Street Suite 532, South Dianaside, MO 09323",kopi luwak durian
+restaurant_0015,Wilson LLC,"0091 Charles Street Suite 532, South Dianaside, MO 09323",es buah matoa
+restaurant_0015,Wilson LLC,"0091 Charles Street Suite 532, South Dianaside, MO 09323",mie tarempa
+restaurant_0015,Wilson LLC,"0091 Charles Street Suite 532, South Dianaside, MO 09323",bir pletok
+restaurant_0016,Nolan Inc,"8888 Christine Fords Suite 801, Port Marissaton, AS 45396",nasi jaha
+restaurant_0016,Nolan Inc,"8888 Christine Fords Suite 801, Port Marissaton, AS 45396",bihun bebek medan
+restaurant_0016,Nolan Inc,"8888 Christine Fords Suite 801, Port Marissaton, AS 45396",soto lamongan
+restaurant_0016,Nolan Inc,"8888 Christine Fords Suite 801, Port Marissaton, AS 45396",kue lumpur
+restaurant_0016,Nolan Inc,"8888 Christine Fords Suite 801, Port Marissaton, AS 45396",kue dangai
+restaurant_0016,Nolan Inc,"8888 Christine Fords Suite 801, Port Marissaton, AS 45396",kue paso
+restaurant_0017,"Dawson, Torres and Hamilton","Unit 5978 Box 9977, DPO AP 39511",tinutuan
+restaurant_0017,"Dawson, Torres and Hamilton","Unit 5978 Box 9977, DPO AP 39511",es sekoteng medan
+restaurant_0017,"Dawson, Torres and Hamilton","Unit 5978 Box 9977, DPO AP 39511",kelicuk
+restaurant_0017,"Dawson, Torres and Hamilton","Unit 5978 Box 9977, DPO AP 39511",ikan kuah kuning
+restaurant_0017,"Dawson, Torres and Hamilton","Unit 5978 Box 9977, DPO AP 39511",kohu-kohu
+restaurant_0017,"Dawson, Torres and Hamilton","Unit 5978 Box 9977, DPO AP 39511",bakpia
+restaurant_0017,"Dawson, Torres and Hamilton","Unit 5978 Box 9977, DPO AP 39511",tuak
+restaurant_0017,"Dawson, Torres and Hamilton","Unit 5978 Box 9977, DPO AP 39511",es oyen
+restaurant_0017,"Dawson, Torres and Hamilton","Unit 5978 Box 9977, DPO AP 39511",nasi jinggo
+restaurant_0017,"Dawson, Torres and Hamilton","Unit 5978 Box 9977, DPO AP 39511",kopi joss
+restaurant_0018,"Johnston, White and Mccormick","3717 Nguyen Groves Suite 985, Heatherland, MA 15313",lopek maga
+restaurant_0018,"Johnston, White and Mccormick","3717 Nguyen Groves Suite 985, Heatherland, MA 15313",lontong bengkalis
+restaurant_0018,"Johnston, White and Mccormick","3717 Nguyen Groves Suite 985, Heatherland, MA 15313",makauhe tumpah
+restaurant_0018,"Johnston, White and Mccormick","3717 Nguyen Groves Suite 985, Heatherland, MA 15313",norohombi
+restaurant_0019,Fitzpatrick PLC,"47198 Leonard Points, Keithmouth, PA 32742",jus patikala
+restaurant_0019,Fitzpatrick PLC,"47198 Leonard Points, Keithmouth, PA 32742",nasi jinggo
+restaurant_0019,Fitzpatrick PLC,"47198 Leonard Points, Keithmouth, PA 32742",saut
+restaurant_0019,Fitzpatrick PLC,"47198 Leonard Points, Keithmouth, PA 32742",kopi joss
+restaurant_0019,Fitzpatrick PLC,"47198 Leonard Points, Keithmouth, PA 32742",godok pisang
+restaurant_0019,Fitzpatrick PLC,"47198 Leonard Points, Keithmouth, PA 32742",kopi toraja
+restaurant_0019,Fitzpatrick PLC,"47198 Leonard Points, Keithmouth, PA 32742",sambal raja
+restaurant_0019,Fitzpatrick PLC,"47198 Leonard Points, Keithmouth, PA 32742",kaledo
+restaurant_0019,Fitzpatrick PLC,"47198 Leonard Points, Keithmouth, PA 32742",mie tarempa
+restaurant_0020,"Howe, Shelton and Miller","USS Martin, FPO AA 29243",klepon
+restaurant_0020,"Howe, Shelton and Miller","USS Martin, FPO AA 29243",nasi gandul
+restaurant_0020,"Howe, Shelton and Miller","USS Martin, FPO AA 29243",mina sarua
+restaurant_0020,"Howe, Shelton and Miller","USS Martin, FPO AA 29243",hihindat ni andalu
+restaurant_0020,"Howe, Shelton and Miller","USS Martin, FPO AA 29243",lontong sayur
+restaurant_0020,"Howe, Shelton and Miller","USS Martin, FPO AA 29243",kopi robusta lampung
+restaurant_0021,"Ramirez, Richard and West","19417 Blair Hills, Cherylfort, WA 11153",sinonggi
+restaurant_0021,"Ramirez, Richard and West","19417 Blair Hills, Cherylfort, WA 11153",kawa daun
+restaurant_0021,"Ramirez, Richard and West","19417 Blair Hills, Cherylfort, WA 11153",cendol panas
+restaurant_0021,"Ramirez, Richard and West","19417 Blair Hills, Cherylfort, WA 11153",sayur ares
+restaurant_0021,"Ramirez, Richard and West","19417 Blair Hills, Cherylfort, WA 11153",kue lontas
+restaurant_0021,"Ramirez, Richard and West","19417 Blair Hills, Cherylfort, WA 11153",es kacang merah
+restaurant_0021,"Ramirez, Richard and West","19417 Blair Hills, Cherylfort, WA 11153",rujak soto banyuwangi
+restaurant_0021,"Ramirez, Richard and West","19417 Blair Hills, Cherylfort, WA 11153",sate bulayak
+restaurant_0021,"Ramirez, Richard and West","19417 Blair Hills, Cherylfort, WA 11153",ie seureubet
+restaurant_0022,Harris-Jones,"96604 Pham Isle, Maddenview, WY 36637",pecel tumpang
+restaurant_0022,Harris-Jones,"96604 Pham Isle, Maddenview, WY 36637",es sekemu
+restaurant_0022,Harris-Jones,"96604 Pham Isle, Maddenview, WY 36637",wedang ronde
+restaurant_0022,Harris-Jones,"96604 Pham Isle, Maddenview, WY 36637",gogos
+restaurant_0022,Harris-Jones,"96604 Pham Isle, Maddenview, WY 36637",lempah kuning
+restaurant_0023,Vega-Smith,"6292 Cameron Ports Apt. 665, Robertsland, CO 04470",roti jala
+restaurant_0023,Vega-Smith,"6292 Cameron Ports Apt. 665, Robertsland, CO 04470",es lancang kuning
+restaurant_0023,Vega-Smith,"6292 Cameron Ports Apt. 665, Robertsland, CO 04470",ikan gohu
+restaurant_0023,Vega-Smith,"6292 Cameron Ports Apt. 665, Robertsland, CO 04470",ikan bungkus
+restaurant_0023,Vega-Smith,"6292 Cameron Ports Apt. 665, Robertsland, CO 04470",kentan bintul
+restaurant_0023,Vega-Smith,"6292 Cameron Ports Apt. 665, Robertsland, CO 04470",rujak kuah pindang
+restaurant_0023,Vega-Smith,"6292 Cameron Ports Apt. 665, Robertsland, CO 04470",kopi dabe
+restaurant_0024,Frank Inc,"709 Carney Spurs Suite 624, North Dianachester, WI 53873",sagu sep
+restaurant_0024,Frank Inc,"709 Carney Spurs Suite 624, North Dianachester, WI 53873",kue delapan jam
+restaurant_0024,Frank Inc,"709 Carney Spurs Suite 624, North Dianachester, WI 53873",soto medan
+restaurant_0024,Frank Inc,"709 Carney Spurs Suite 624, North Dianachester, WI 53873",puding legung
+restaurant_0024,Frank Inc,"709 Carney Spurs Suite 624, North Dianachester, WI 53873",kopi luwak durian
+restaurant_0024,Frank Inc,"709 Carney Spurs Suite 624, North Dianachester, WI 53873",kue bangkit
+restaurant_0024,Frank Inc,"709 Carney Spurs Suite 624, North Dianachester, WI 53873",tiwul
+restaurant_0024,Frank Inc,"709 Carney Spurs Suite 624, North Dianachester, WI 53873",bihun bebek medan
+restaurant_0025,Brown-Harris,"06537 Heath Shore, Josephhaven, NY 48193",sate temburung
+restaurant_0025,Brown-Harris,"06537 Heath Shore, Josephhaven, NY 48193",jus patikala
+restaurant_0025,Brown-Harris,"06537 Heath Shore, Josephhaven, NY 48193",ayam bambu
+restaurant_0025,Brown-Harris,"06537 Heath Shore, Josephhaven, NY 48193",bubur ikan
+restaurant_0025,Brown-Harris,"06537 Heath Shore, Josephhaven, NY 48193",kelicuk
+restaurant_0025,Brown-Harris,"06537 Heath Shore, Josephhaven, NY 48193",pendap
+restaurant_0026,Perry Group,"18557 Kristi Mill Apt. 144, Erikland, AZ 30021",tiwul
+restaurant_0026,Perry Group,"18557 Kristi Mill Apt. 144, Erikland, AZ 30021",nasi gemuk
+restaurant_0026,Perry Group,"18557 Kristi Mill Apt. 144, Erikland, AZ 30021",sarabba
+restaurant_0026,Perry Group,"18557 Kristi Mill Apt. 144, Erikland, AZ 30021",kopi joss
+restaurant_0026,Perry Group,"18557 Kristi Mill Apt. 144, Erikland, AZ 30021",godekh sagu
+restaurant_0026,Perry Group,"18557 Kristi Mill Apt. 144, Erikland, AZ 30021",gerem asem
+restaurant_0026,Perry Group,"18557 Kristi Mill Apt. 144, Erikland, AZ 30021",minuman sarai
+restaurant_0026,Perry Group,"18557 Kristi Mill Apt. 144, Erikland, AZ 30021",lontong medan
+restaurant_0026,Perry Group,"18557 Kristi Mill Apt. 144, Erikland, AZ 30021",golla kambu
+restaurant_0026,Perry Group,"18557 Kristi Mill Apt. 144, Erikland, AZ 30021",putu bambu
+restaurant_0027,"Moran, Knapp and Martin","479 Jenkins Flat, South Sarah, AZ 25209",kue ombus-ombus
+restaurant_0027,"Moran, Knapp and Martin","479 Jenkins Flat, South Sarah, AZ 25209",putu bambu
+restaurant_0027,"Moran, Knapp and Martin","479 Jenkins Flat, South Sarah, AZ 25209",paniki
+restaurant_0027,"Moran, Knapp and Martin","479 Jenkins Flat, South Sarah, AZ 25209",bandrek
+restaurant_0027,"Moran, Knapp and Martin","479 Jenkins Flat, South Sarah, AZ 25209",kue lapis cempedak
+restaurant_0027,"Moran, Knapp and Martin","479 Jenkins Flat, South Sarah, AZ 25209",ketupat kandangan
+restaurant_0028,Robinson-Willis,"0901 Holland Knolls Suite 943, New Tanyatown, MD 08231",bika bakar mandailing
+restaurant_0028,Robinson-Willis,"0901 Holland Knolls Suite 943, New Tanyatown, MD 08231",soto betawi
+restaurant_0028,Robinson-Willis,"0901 Holland Knolls Suite 943, New Tanyatown, MD 08231",kue satu
+restaurant_0028,Robinson-Willis,"0901 Holland Knolls Suite 943, New Tanyatown, MD 08231",sagu sep
+restaurant_0029,Martin-Todd,"445 Kidd Manor Suite 382, New Ronnie, UT 00987",pepes ikan patin kucai
+restaurant_0029,Martin-Todd,"445 Kidd Manor Suite 382, New Ronnie, UT 00987",nasi balap puyung
+restaurant_0029,Martin-Todd,"445 Kidd Manor Suite 382, New Ronnie, UT 00987",rujak soto banyuwangi
+restaurant_0029,Martin-Todd,"445 Kidd Manor Suite 382, New Ronnie, UT 00987",kue satu
+restaurant_0029,Martin-Todd,"445 Kidd Manor Suite 382, New Ronnie, UT 00987",jenurai
+restaurant_0029,Martin-Todd,"445 Kidd Manor Suite 382, New Ronnie, UT 00987",es sekoteng medan
+restaurant_0029,Martin-Todd,"445 Kidd Manor Suite 382, New Ronnie, UT 00987",rawon
+restaurant_0029,Martin-Todd,"445 Kidd Manor Suite 382, New Ronnie, UT 00987",sinonggi
+restaurant_0029,Martin-Todd,"445 Kidd Manor Suite 382, New Ronnie, UT 00987",bandrek
+restaurant_0030,"Harrington, Myers and Smith","0690 Samantha Ways Apt. 804, Port Tony, PR 37065",nasi gandul
+restaurant_0030,"Harrington, Myers and Smith","0690 Samantha Ways Apt. 804, Port Tony, PR 37065",mie koba
+restaurant_0030,"Harrington, Myers and Smith","0690 Samantha Ways Apt. 804, Port Tony, PR 37065",temet
+restaurant_0030,"Harrington, Myers and Smith","0690 Samantha Ways Apt. 804, Port Tony, PR 37065",tekwan
+restaurant_0030,"Harrington, Myers and Smith","0690 Samantha Ways Apt. 804, Port Tony, PR 37065",karuang
+restaurant_0030,"Harrington, Myers and Smith","0690 Samantha Ways Apt. 804, Port Tony, PR 37065",dada tuna
+restaurant_0030,"Harrington, Myers and Smith","0690 Samantha Ways Apt. 804, Port Tony, PR 37065",gulai balak
+restaurant_0030,"Harrington, Myers and Smith","0690 Samantha Ways Apt. 804, Port Tony, PR 37065",pepes ikan patin kucai
+restaurant_0030,"Harrington, Myers and Smith","0690 Samantha Ways Apt. 804, Port Tony, PR 37065",mangut lele
+restaurant_0031,Booker-Woods,"PSC 8819, Box 2451, APO AE 41477",coto makassar
+restaurant_0031,Booker-Woods,"PSC 8819, Box 2451, APO AE 41477",gatang kenari
+restaurant_0031,Booker-Woods,"PSC 8819, Box 2451, APO AE 41477",seruit
+restaurant_0031,Booker-Woods,"PSC 8819, Box 2451, APO AE 41477",sate temburung
+restaurant_0031,Booker-Woods,"PSC 8819, Box 2451, APO AE 41477",nasi lapola
+restaurant_0031,Booker-Woods,"PSC 8819, Box 2451, APO AE 41477",bakat hiu
+restaurant_0032,"Mills, Deleon and Crawford","663 Harvey Shores, Lake Deborah, PW 33119",sate payau
+restaurant_0032,"Mills, Deleon and Crawford","663 Harvey Shores, Lake Deborah, PW 33119",pindang patin
+restaurant_0032,"Mills, Deleon and Crawford","663 Harvey Shores, Lake Deborah, PW 33119",keladi tumbuk
+restaurant_0032,"Mills, Deleon and Crawford","663 Harvey Shores, Lake Deborah, PW 33119",dadar gulung
+restaurant_0032,"Mills, Deleon and Crawford","663 Harvey Shores, Lake Deborah, PW 33119",nasi grombyang
+restaurant_0032,"Mills, Deleon and Crawford","663 Harvey Shores, Lake Deborah, PW 33119",peuyeum
+restaurant_0032,"Mills, Deleon and Crawford","663 Harvey Shores, Lake Deborah, PW 33119",lahang
+restaurant_0032,"Mills, Deleon and Crawford","663 Harvey Shores, Lake Deborah, PW 33119",ketupat ketan
+restaurant_0032,"Mills, Deleon and Crawford","663 Harvey Shores, Lake Deborah, PW 33119",mie tarempa
+restaurant_0033,"Lewis, Mathews and Mccoy","7428 Anna Skyway, Kristopherville, VT 68010",sarabba
+restaurant_0033,"Lewis, Mathews and Mccoy","7428 Anna Skyway, Kristopherville, VT 68010",rujak cingur
+restaurant_0033,"Lewis, Mathews and Mccoy","7428 Anna Skyway, Kristopherville, VT 68010",kue kui kui
+restaurant_0033,"Lewis, Mathews and Mccoy","7428 Anna Skyway, Kristopherville, VT 68010",tutug oncom
+restaurant_0033,"Lewis, Mathews and Mccoy","7428 Anna Skyway, Kristopherville, VT 68010",kue lumpur
+restaurant_0034,"Guzman, Kennedy and Baker","69791 Maddox Mountain Apt. 665, Williamsburgh, MA 11382",rujak bulung
+restaurant_0034,"Guzman, Kennedy and Baker","69791 Maddox Mountain Apt. 665, Williamsburgh, MA 11382",mie celor
+restaurant_0034,"Guzman, Kennedy and Baker","69791 Maddox Mountain Apt. 665, Williamsburgh, MA 11382",nasi balap puyung
+restaurant_0034,"Guzman, Kennedy and Baker","69791 Maddox Mountain Apt. 665, Williamsburgh, MA 11382",alame
+restaurant_0034,"Guzman, Kennedy and Baker","69791 Maddox Mountain Apt. 665, Williamsburgh, MA 11382",pisang epe
+restaurant_0035,Patel Ltd,"5220 Emily Throughway, Port Anna, IA 50979",es sekoteng medan
+restaurant_0035,Patel Ltd,"5220 Emily Throughway, Port Anna, IA 50979",kopi luwak durian
+restaurant_0035,Patel Ltd,"5220 Emily Throughway, Port Anna, IA 50979",es brenebon
+restaurant_0035,Patel Ltd,"5220 Emily Throughway, Port Anna, IA 50979",bubur ikan
+restaurant_0035,Patel Ltd,"5220 Emily Throughway, Port Anna, IA 50979",lapa-lapa
+restaurant_0036,"Tucker, Wolf and Sherman","67682 Silva Vista Apt. 661, East Michael, MA 36058",jaje bendu
+restaurant_0036,"Tucker, Wolf and Sherman","67682 Silva Vista Apt. 661, East Michael, MA 36058",kembang goyang
+restaurant_0036,"Tucker, Wolf and Sherman","67682 Silva Vista Apt. 661, East Michael, MA 36058",makauhe tumpah
+restaurant_0036,"Tucker, Wolf and Sherman","67682 Silva Vista Apt. 661, East Michael, MA 36058",gabing
+restaurant_0036,"Tucker, Wolf and Sherman","67682 Silva Vista Apt. 661, East Michael, MA 36058",pempek
+restaurant_0036,"Tucker, Wolf and Sherman","67682 Silva Vista Apt. 661, East Michael, MA 36058",ilabulo
+restaurant_0036,"Tucker, Wolf and Sherman","67682 Silva Vista Apt. 661, East Michael, MA 36058",cao menek
+restaurant_0036,"Tucker, Wolf and Sherman","67682 Silva Vista Apt. 661, East Michael, MA 36058",kue padamaran
+restaurant_0037,"Butler, Harris and Hurst","721 Christopher Stravenue Apt. 226, North Dylanberg, UT 54355",kue paso
+restaurant_0037,"Butler, Harris and Hurst","721 Christopher Stravenue Apt. 226, North Dylanberg, UT 54355",rusip
+restaurant_0037,"Butler, Harris and Hurst","721 Christopher Stravenue Apt. 226, North Dylanberg, UT 54355",kelicuk
+restaurant_0037,"Butler, Harris and Hurst","721 Christopher Stravenue Apt. 226, North Dylanberg, UT 54355",mi ongklok
+restaurant_0037,"Butler, Harris and Hurst","721 Christopher Stravenue Apt. 226, North Dylanberg, UT 54355",es daluman
+restaurant_0037,"Butler, Harris and Hurst","721 Christopher Stravenue Apt. 226, North Dylanberg, UT 54355",jenurai
+restaurant_0037,"Butler, Harris and Hurst","721 Christopher Stravenue Apt. 226, North Dylanberg, UT 54355",godekh sagu
+restaurant_0037,"Butler, Harris and Hurst","721 Christopher Stravenue Apt. 226, North Dylanberg, UT 54355",kopi arabika flores bajawa
+restaurant_0037,"Butler, Harris and Hurst","721 Christopher Stravenue Apt. 226, North Dylanberg, UT 54355",bubur ikan
+restaurant_0037,"Butler, Harris and Hurst","721 Christopher Stravenue Apt. 226, North Dylanberg, UT 54355",ie seureubet
+restaurant_0038,King-Parker,"6385 Wang Summit Apt. 779, South Phillip, AR 94666",tekwan
+restaurant_0038,King-Parker,"6385 Wang Summit Apt. 779, South Phillip, AR 94666",mie gomak
+restaurant_0038,King-Parker,"6385 Wang Summit Apt. 779, South Phillip, AR 94666",arak bali
+restaurant_0038,King-Parker,"6385 Wang Summit Apt. 779, South Phillip, AR 94666",ikan tamban salai
+restaurant_0038,King-Parker,"6385 Wang Summit Apt. 779, South Phillip, AR 94666",mina sarua
+restaurant_0038,King-Parker,"6385 Wang Summit Apt. 779, South Phillip, AR 94666",congyang
+restaurant_0039,"Anderson, Ward and Kelly","81953 Morris Ramp Apt. 174, New Jeffery, VT 04343",keladi tumbuk
+restaurant_0039,"Anderson, Ward and Kelly","81953 Morris Ramp Apt. 174, New Jeffery, VT 04343",nasi padang
+restaurant_0039,"Anderson, Ward and Kelly","81953 Morris Ramp Apt. 174, New Jeffery, VT 04343",es kacang merah
+restaurant_0039,"Anderson, Ward and Kelly","81953 Morris Ramp Apt. 174, New Jeffery, VT 04343",plecing kangkung
+restaurant_0039,"Anderson, Ward and Kelly","81953 Morris Ramp Apt. 174, New Jeffery, VT 04343",nasi gemuk
+restaurant_0039,"Anderson, Ward and Kelly","81953 Morris Ramp Apt. 174, New Jeffery, VT 04343",timpahan
+restaurant_0039,"Anderson, Ward and Kelly","81953 Morris Ramp Apt. 174, New Jeffery, VT 04343",kopi gayo 
+restaurant_0040,Taylor PLC,"12640 Diamond Forge, Tiffanyville, NM 06905",es setup kolang kaling
+restaurant_0040,Taylor PLC,"12640 Diamond Forge, Tiffanyville, NM 06905",lahang
+restaurant_0040,Taylor PLC,"12640 Diamond Forge, Tiffanyville, NM 06905",asam keueng
+restaurant_0040,Taylor PLC,"12640 Diamond Forge, Tiffanyville, NM 06905",kentan bintul
+restaurant_0040,Taylor PLC,"12640 Diamond Forge, Tiffanyville, NM 06905",wadi
+restaurant_0040,Taylor PLC,"12640 Diamond Forge, Tiffanyville, NM 06905",tinutuan
+restaurant_0040,Taylor PLC,"12640 Diamond Forge, Tiffanyville, NM 06905",kopi dabe
+restaurant_0040,Taylor PLC,"12640 Diamond Forge, Tiffanyville, NM 06905",mina sarua
+restaurant_0040,Taylor PLC,"12640 Diamond Forge, Tiffanyville, NM 06905",gatot
+restaurant_0040,Taylor PLC,"12640 Diamond Forge, Tiffanyville, NM 06905",tili aya
+restaurant_0041,Rodriguez LLC,"343 Thomas Ways, Charlesfurt, TX 33851",rujak bulung
+restaurant_0041,Rodriguez LLC,"343 Thomas Ways, Charlesfurt, TX 33851",es tambring
+restaurant_0041,Rodriguez LLC,"343 Thomas Ways, Charlesfurt, TX 33851",binte biluhuta
+restaurant_0041,Rodriguez LLC,"343 Thomas Ways, Charlesfurt, TX 33851",pengkang
+restaurant_0041,Rodriguez LLC,"343 Thomas Ways, Charlesfurt, TX 33851",peuyeum
+restaurant_0041,Rodriguez LLC,"343 Thomas Ways, Charlesfurt, TX 33851",rabeg
+restaurant_0041,Rodriguez LLC,"343 Thomas Ways, Charlesfurt, TX 33851",kentan bintul
+restaurant_0041,Rodriguez LLC,"343 Thomas Ways, Charlesfurt, TX 33851",cimpa
+restaurant_0041,Rodriguez LLC,"343 Thomas Ways, Charlesfurt, TX 33851",jepa
+restaurant_0041,Rodriguez LLC,"343 Thomas Ways, Charlesfurt, TX 33851",ce huan tiau
+restaurant_0042,Fox Inc,"USS Hartman, FPO AP 87492",es selendang mayang
+restaurant_0042,Fox Inc,"USS Hartman, FPO AP 87492",lontong medan
+restaurant_0042,Fox Inc,"USS Hartman, FPO AP 87492",kopi takar
+restaurant_0042,Fox Inc,"USS Hartman, FPO AP 87492",kue dangai
+restaurant_0042,Fox Inc,"USS Hartman, FPO AP 87492",kopi toraja
+restaurant_0042,Fox Inc,"USS Hartman, FPO AP 87492",golla kambu
+restaurant_0042,Fox Inc,"USS Hartman, FPO AP 87492",es air mata pengantin
+restaurant_0042,Fox Inc,"USS Hartman, FPO AP 87492",mie celor
+restaurant_0042,Fox Inc,"USS Hartman, FPO AP 87492",kawok
+restaurant_0042,Fox Inc,"USS Hartman, FPO AP 87492",gabing
+restaurant_0043,Sanchez Ltd,"82460 Rodriguez Turnpike, Port Shannon, RI 52537",stmj
+restaurant_0043,Sanchez Ltd,"82460 Rodriguez Turnpike, Port Shannon, RI 52537",pecel tumpang
+restaurant_0043,Sanchez Ltd,"82460 Rodriguez Turnpike, Port Shannon, RI 52537",kentan bintul
+restaurant_0043,Sanchez Ltd,"82460 Rodriguez Turnpike, Port Shannon, RI 52537",soto medan
+restaurant_0043,Sanchez Ltd,"82460 Rodriguez Turnpike, Port Shannon, RI 52537",pisang goreng pontianak
+restaurant_0043,Sanchez Ltd,"82460 Rodriguez Turnpike, Port Shannon, RI 52537",sambusa
+restaurant_0043,Sanchez Ltd,"82460 Rodriguez Turnpike, Port Shannon, RI 52537",kue padamaran
+restaurant_0043,Sanchez Ltd,"82460 Rodriguez Turnpike, Port Shannon, RI 52537",es sekoteng medan
+restaurant_0043,Sanchez Ltd,"82460 Rodriguez Turnpike, Port Shannon, RI 52537",bika bakar mandailing
+restaurant_0043,Sanchez Ltd,"82460 Rodriguez Turnpike, Port Shannon, RI 52537",bir pletok
+restaurant_0044,Burke and Sons,"300 Mcdaniel Springs, New Richardview, DC 59112",es air mata pengantin
+restaurant_0044,Burke and Sons,"300 Mcdaniel Springs, New Richardview, DC 59112",sopi
+restaurant_0044,Burke and Sons,"300 Mcdaniel Springs, New Richardview, DC 59112",es setup kolang kaling
+restaurant_0044,Burke and Sons,"300 Mcdaniel Springs, New Richardview, DC 59112",es sekemu
+restaurant_0044,Burke and Sons,"300 Mcdaniel Springs, New Richardview, DC 59112",bakat hiu
+restaurant_0044,Burke and Sons,"300 Mcdaniel Springs, New Richardview, DC 59112",jus marungga
+restaurant_0044,Burke and Sons,"300 Mcdaniel Springs, New Richardview, DC 59112",putu bambu
+restaurant_0044,Burke and Sons,"300 Mcdaniel Springs, New Richardview, DC 59112",duo sale
+restaurant_0045,Avery LLC,"286 Kristen Bypass Apt. 218, East Scott, MT 57828",nasi jaha
+restaurant_0045,Avery LLC,"286 Kristen Bypass Apt. 218, East Scott, MT 57828",tuak
+restaurant_0045,Avery LLC,"286 Kristen Bypass Apt. 218, East Scott, MT 57828",sebuk kawo
+restaurant_0045,Avery LLC,"286 Kristen Bypass Apt. 218, East Scott, MT 57828",kopi luwak durian
+restaurant_0045,Avery LLC,"286 Kristen Bypass Apt. 218, East Scott, MT 57828",kawok
+restaurant_0045,Avery LLC,"286 Kristen Bypass Apt. 218, East Scott, MT 57828",kue dangai
+restaurant_0045,Avery LLC,"286 Kristen Bypass Apt. 218, East Scott, MT 57828",sop konro
+restaurant_0045,Avery LLC,"286 Kristen Bypass Apt. 218, East Scott, MT 57828",bika bakar mandailing
+restaurant_0046,Hess Inc,"69619 Ryan Crossroad Suite 049, South Gregorybury, OR 24943",jaje bendu
+restaurant_0046,Hess Inc,"69619 Ryan Crossroad Suite 049, South Gregorybury, OR 24943",kue jawada
+restaurant_0046,Hess Inc,"69619 Ryan Crossroad Suite 049, South Gregorybury, OR 24943",es palu butung
+restaurant_0046,Hess Inc,"69619 Ryan Crossroad Suite 049, South Gregorybury, OR 24943",teh gaharu
+restaurant_0046,Hess Inc,"69619 Ryan Crossroad Suite 049, South Gregorybury, OR 24943",mie aceh
+restaurant_0046,Hess Inc,"69619 Ryan Crossroad Suite 049, South Gregorybury, OR 24943",kue adee meureudu
+restaurant_0046,Hess Inc,"69619 Ryan Crossroad Suite 049, South Gregorybury, OR 24943",ayam taliwang
+restaurant_0047,Morris-Allen,"8051 Torres Estates Apt. 812, Lake Carrie, CT 22050",soto kudus
+restaurant_0047,Morris-Allen,"8051 Torres Estates Apt. 812, Lake Carrie, CT 22050",gatang kenari
+restaurant_0047,Morris-Allen,"8051 Torres Estates Apt. 812, Lake Carrie, CT 22050",sekoteng
+restaurant_0047,Morris-Allen,"8051 Torres Estates Apt. 812, Lake Carrie, CT 22050",kue bay tat
+restaurant_0047,Morris-Allen,"8051 Torres Estates Apt. 812, Lake Carrie, CT 22050",cacapan asam
+restaurant_0047,Morris-Allen,"8051 Torres Estates Apt. 812, Lake Carrie, CT 22050",bihun bebek medan
+restaurant_0047,Morris-Allen,"8051 Torres Estates Apt. 812, Lake Carrie, CT 22050",celimbungan
+restaurant_0047,Morris-Allen,"8051 Torres Estates Apt. 812, Lake Carrie, CT 22050",rujak kuah pindang
+restaurant_0048,Munoz Group,"7605 Perry Valleys Suite 351, Markstad, MO 27737",buah hongas
+restaurant_0048,Munoz Group,"7605 Perry Valleys Suite 351, Markstad, MO 27737",gatang kenari
+restaurant_0048,Munoz Group,"7605 Perry Valleys Suite 351, Markstad, MO 27737",rusip
+restaurant_0048,Munoz Group,"7605 Perry Valleys Suite 351, Markstad, MO 27737",tinutuan
+restaurant_0048,Munoz Group,"7605 Perry Valleys Suite 351, Markstad, MO 27737",minuman sarai
+restaurant_0049,"Evans, Williams and King","058 Ronnie Plaza, New Saraside, DC 48829",sei daging sapi
+restaurant_0049,"Evans, Williams and King","058 Ronnie Plaza, New Saraside, DC 48829",es sekemu
+restaurant_0049,"Evans, Williams and King","058 Ronnie Plaza, New Saraside, DC 48829",kolo
+restaurant_0049,"Evans, Williams and King","058 Ronnie Plaza, New Saraside, DC 48829",teh talua
+restaurant_0049,"Evans, Williams and King","058 Ronnie Plaza, New Saraside, DC 48829",ie seureubet
+restaurant_0049,"Evans, Williams and King","058 Ronnie Plaza, New Saraside, DC 48829",pokak saripu
+restaurant_0049,"Evans, Williams and King","058 Ronnie Plaza, New Saraside, DC 48829",roti jala
+restaurant_0049,"Evans, Williams and King","058 Ronnie Plaza, New Saraside, DC 48829",sopi
+restaurant_0049,"Evans, Williams and King","058 Ronnie Plaza, New Saraside, DC 48829",talam jagung lapis telang
+restaurant_0049,"Evans, Williams and King","058 Ronnie Plaza, New Saraside, DC 48829",carang gesing pisang
+restaurant_0050,Garrett Ltd,"491 Bailey Mall Suite 140, Calderonstad, ME 36038",nagasari
+restaurant_0050,Garrett Ltd,"491 Bailey Mall Suite 140, Calderonstad, ME 36038",alame
+restaurant_0050,Garrett Ltd,"491 Bailey Mall Suite 140, Calderonstad, ME 36038",ilabulo
+restaurant_0050,Garrett Ltd,"491 Bailey Mall Suite 140, Calderonstad, ME 36038",bandrek
+restaurant_0050,Garrett Ltd,"491 Bailey Mall Suite 140, Calderonstad, ME 36038",kue mayang papan
+restaurant_0050,Garrett Ltd,"491 Bailey Mall Suite 140, Calderonstad, ME 36038",sopi
+restaurant_0051,Carson and Sons,"6740 Conley Lights Apt. 282, Shawnstad, NH 90187",kue lepek binti
+restaurant_0051,Carson and Sons,"6740 Conley Lights Apt. 282, Shawnstad, NH 90187",udang selingkuh
+restaurant_0051,Carson and Sons,"6740 Conley Lights Apt. 282, Shawnstad, NH 90187",gogos
+restaurant_0051,Carson and Sons,"6740 Conley Lights Apt. 282, Shawnstad, NH 90187",cerorot
+restaurant_0051,Carson and Sons,"6740 Conley Lights Apt. 282, Shawnstad, NH 90187",bubur pedas
+restaurant_0051,Carson and Sons,"6740 Conley Lights Apt. 282, Shawnstad, NH 90187",ayam betutu
+restaurant_0051,Carson and Sons,"6740 Conley Lights Apt. 282, Shawnstad, NH 90187",tili aya
+restaurant_0051,Carson and Sons,"6740 Conley Lights Apt. 282, Shawnstad, NH 90187",ikan bungkus
+restaurant_0051,Carson and Sons,"6740 Conley Lights Apt. 282, Shawnstad, NH 90187",baram
+restaurant_0051,Carson and Sons,"6740 Conley Lights Apt. 282, Shawnstad, NH 90187",es dawet ayu
+restaurant_0052,"Stewart, Nelson and Edwards","287 Brooks Roads Apt. 826, East Christopherport, VI 30915",kue talam pisang
+restaurant_0052,"Stewart, Nelson and Edwards","287 Brooks Roads Apt. 826, East Christopherport, VI 30915",pecel tumpang
+restaurant_0052,"Stewart, Nelson and Edwards","287 Brooks Roads Apt. 826, East Christopherport, VI 30915",keladi tumbuk
+restaurant_0052,"Stewart, Nelson and Edwards","287 Brooks Roads Apt. 826, East Christopherport, VI 30915",lahang bambu
+restaurant_0052,"Stewart, Nelson and Edwards","287 Brooks Roads Apt. 826, East Christopherport, VI 30915",nagasari
+restaurant_0053,Herring-Williamson,"0397 Holloway Lights, Carolmouth, NJ 10240",golla kambu
+restaurant_0053,Herring-Williamson,"0397 Holloway Lights, Carolmouth, NJ 10240",baram
+restaurant_0053,Herring-Williamson,"0397 Holloway Lights, Carolmouth, NJ 10240",mina sarua
+restaurant_0053,Herring-Williamson,"0397 Holloway Lights, Carolmouth, NJ 10240",nasi padang
+restaurant_0053,Herring-Williamson,"0397 Holloway Lights, Carolmouth, NJ 10240",pakis krispi 
+restaurant_0053,Herring-Williamson,"0397 Holloway Lights, Carolmouth, NJ 10240",teh secang
+restaurant_0053,Herring-Williamson,"0397 Holloway Lights, Carolmouth, NJ 10240",dada tuna
+restaurant_0054,"Simpson, Ortega and Williams","042 Steve Pines Suite 225, Snydertown, SC 88574",arak bali
+restaurant_0054,"Simpson, Ortega and Williams","042 Steve Pines Suite 225, Snydertown, SC 88574",iwak pakasam
+restaurant_0054,"Simpson, Ortega and Williams","042 Steve Pines Suite 225, Snydertown, SC 88574",mie celor
+restaurant_0054,"Simpson, Ortega and Williams","042 Steve Pines Suite 225, Snydertown, SC 88574",puding legung
+restaurant_0054,"Simpson, Ortega and Williams","042 Steve Pines Suite 225, Snydertown, SC 88574",kolo
+restaurant_0054,"Simpson, Ortega and Williams","042 Steve Pines Suite 225, Snydertown, SC 88574",es kelacin
+restaurant_0054,"Simpson, Ortega and Williams","042 Steve Pines Suite 225, Snydertown, SC 88574",makauhe tumpah
+restaurant_0054,"Simpson, Ortega and Williams","042 Steve Pines Suite 225, Snydertown, SC 88574",mie aceh
+restaurant_0055,Russell Inc,"59142 Simpson Flats, New Charlesville, NV 84949",soto betawi
+restaurant_0055,Russell Inc,"59142 Simpson Flats, New Charlesville, NV 84949",angeun lada
+restaurant_0055,Russell Inc,"59142 Simpson Flats, New Charlesville, NV 84949",kue goreng gadong
+restaurant_0055,Russell Inc,"59142 Simpson Flats, New Charlesville, NV 84949",kopi gayo 
+restaurant_0055,Russell Inc,"59142 Simpson Flats, New Charlesville, NV 84949",nasi kuning
+restaurant_0055,Russell Inc,"59142 Simpson Flats, New Charlesville, NV 84949",sate maranggi
+restaurant_0056,Andrews-Schaefer,"98606 Kyle Hill, Ruizberg, IA 77816",jus marungga
+restaurant_0056,Andrews-Schaefer,"98606 Kyle Hill, Ruizberg, IA 77816",rawon
+restaurant_0056,Andrews-Schaefer,"98606 Kyle Hill, Ruizberg, IA 77816",baram
+restaurant_0056,Andrews-Schaefer,"98606 Kyle Hill, Ruizberg, IA 77816",ayam iloni
+restaurant_0056,Andrews-Schaefer,"98606 Kyle Hill, Ruizberg, IA 77816",kue ombus-ombus
+restaurant_0056,Andrews-Schaefer,"98606 Kyle Hill, Ruizberg, IA 77816",kerak telor
+restaurant_0056,Andrews-Schaefer,"98606 Kyle Hill, Ruizberg, IA 77816",rendang
+restaurant_0056,Andrews-Schaefer,"98606 Kyle Hill, Ruizberg, IA 77816",pandap
+restaurant_0056,Andrews-Schaefer,"98606 Kyle Hill, Ruizberg, IA 77816",kue karud
+restaurant_0056,Andrews-Schaefer,"98606 Kyle Hill, Ruizberg, IA 77816",es air mata pengantin
+restaurant_0057,Smith LLC,"83988 Mitchell Branch Suite 101, Greeneville, OK 87629",lontong bengkalis
+restaurant_0057,Smith LLC,"83988 Mitchell Branch Suite 101, Greeneville, OK 87629",jagung bose
+restaurant_0057,Smith LLC,"83988 Mitchell Branch Suite 101, Greeneville, OK 87629",bika bakar mandailing
+restaurant_0057,Smith LLC,"83988 Mitchell Branch Suite 101, Greeneville, OK 87629",sate tuna
+restaurant_0058,Branch-Reed,"1790 Levi Square, Douglasshire, ME 38502",godok pisang
+restaurant_0058,Branch-Reed,"1790 Levi Square, Douglasshire, ME 38502",sirup batumandi
+restaurant_0058,Branch-Reed,"1790 Levi Square, Douglasshire, ME 38502",lontong bengkalis
+restaurant_0058,Branch-Reed,"1790 Levi Square, Douglasshire, ME 38502",kopi toraja
+restaurant_0058,Branch-Reed,"1790 Levi Square, Douglasshire, ME 38502",nasi gemuk
+restaurant_0058,Branch-Reed,"1790 Levi Square, Douglasshire, ME 38502",godekh sagu
+restaurant_0058,Branch-Reed,"1790 Levi Square, Douglasshire, ME 38502",nasi tepeng
+restaurant_0058,Branch-Reed,"1790 Levi Square, Douglasshire, ME 38502",lemet singkong
+restaurant_0058,Branch-Reed,"1790 Levi Square, Douglasshire, ME 38502",kopi gayo 
+restaurant_0059,"Aguilar, Roach and Banks","469 Johnson Prairie, Freemanfurt, WY 10694",rujak cingur
+restaurant_0059,"Aguilar, Roach and Banks","469 Johnson Prairie, Freemanfurt, WY 10694",es teler
+restaurant_0059,"Aguilar, Roach and Banks","469 Johnson Prairie, Freemanfurt, WY 10694",kue ombus-ombus
+restaurant_0059,"Aguilar, Roach and Banks","469 Johnson Prairie, Freemanfurt, WY 10694",sopi
+restaurant_0059,"Aguilar, Roach and Banks","469 Johnson Prairie, Freemanfurt, WY 10694",es kelacin
+restaurant_0059,"Aguilar, Roach and Banks","469 Johnson Prairie, Freemanfurt, WY 10694",bakmi jawa
+restaurant_0059,"Aguilar, Roach and Banks","469 Johnson Prairie, Freemanfurt, WY 10694",celimbungan
+restaurant_0059,"Aguilar, Roach and Banks","469 Johnson Prairie, Freemanfurt, WY 10694",rujak kuah pindang
+restaurant_0059,"Aguilar, Roach and Banks","469 Johnson Prairie, Freemanfurt, WY 10694",godekh sagu
+restaurant_0060,Hernandez-Garcia,"Unit 3952 Box 3947, DPO AP 80639",es oyen
+restaurant_0060,Hernandez-Garcia,"Unit 3952 Box 3947, DPO AP 80639",wedang uwuh
+restaurant_0060,Hernandez-Garcia,"Unit 3952 Box 3947, DPO AP 80639",binte biluhuta
+restaurant_0060,Hernandez-Garcia,"Unit 3952 Box 3947, DPO AP 80639",teh gaharu
+restaurant_0060,Hernandez-Garcia,"Unit 3952 Box 3947, DPO AP 80639",sarabba
+restaurant_0060,Hernandez-Garcia,"Unit 3952 Box 3947, DPO AP 80639",karedok
+restaurant_0061,Rocha Group,"PSC 5681, Box 5322, APO AA 43405",kue kui kui
+restaurant_0061,Rocha Group,"PSC 5681, Box 5322, APO AA 43405",rujak kuah pindang
+restaurant_0061,Rocha Group,"PSC 5681, Box 5322, APO AA 43405",es martebe
+restaurant_0061,Rocha Group,"PSC 5681, Box 5322, APO AA 43405",es selendang mayang
+restaurant_0061,Rocha Group,"PSC 5681, Box 5322, APO AA 43405",serbat kweni
+restaurant_0061,Rocha Group,"PSC 5681, Box 5322, APO AA 43405",es tambring
+restaurant_0061,Rocha Group,"PSC 5681, Box 5322, APO AA 43405",es sekoteng medan
+restaurant_0061,Rocha Group,"PSC 5681, Box 5322, APO AA 43405",saut
+restaurant_0062,Ball-Davis,"647 Rogers Spring Apt. 185, Port Catherineberg, PR 24375",kopi joss
+restaurant_0062,Ball-Davis,"647 Rogers Spring Apt. 185, Port Catherineberg, PR 24375",kue lepek binti
+restaurant_0062,Ball-Davis,"647 Rogers Spring Apt. 185, Port Catherineberg, PR 24375",gence ruan
+restaurant_0062,Ball-Davis,"647 Rogers Spring Apt. 185, Port Catherineberg, PR 24375",godok pisang
+restaurant_0062,Ball-Davis,"647 Rogers Spring Apt. 185, Port Catherineberg, PR 24375",stmj

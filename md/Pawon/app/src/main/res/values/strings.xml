@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">StaterUp</string>
+    <string name="app_name1">Pawon</string>
+    <string name="app_project">Pawon</string>
+    <string name="welcome">Welcome</string>
+
+
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+
+    <string name="text_login">Please login with your information</string>
+    <string name="text_email">Email Address</string>
+    <string name="text_password">Password</string>
+    <string name="text_button_remember_me">Remember me</string>
+    <string name="text_register">Set up an account</string>
+    <string name="text_username">Username</string>
+    <string name="text_sudah_punya_akun">Already have an account? Sign in</string>
+    <string name="text">Aplikasi Pawon adalah sebuah platform yang membantu anda untuk menemukan berbagai pilihan makanan yang berada di sekitar anda.</string>
+    <string name="button">Get Started</string>
+
+    <string name="cd_phone_brands_logo">Phone Brands Logo</string>
+    <string name="food_asin">Asin</string>
+    <string name="food_gurih">Gurih</string>
+    <string name="food_manis">Manis</string>
+    <string name="food_asam">Asam</string>
+    <string name="label_description">Deskripsi</string>
+    <string name="label_brand_name">Nama Makanan</string>
+    <string name="error_brand_data_is_empty">Couldn\'t find brand data</string>
+
+
+</resources>

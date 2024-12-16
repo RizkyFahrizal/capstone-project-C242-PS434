@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="8dp"
+    app:cardCornerRadius="12dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/secondary"
+        android:padding="12dp">
+
+        <ImageView
+            android:id="@+id/iv_logo"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:contentDescription="@string/cd_phone_brands_logo"
+            android:scaleType="fitCenter"
+            tools:src="@tools:sample/avatars" />
+
+        <TextView
+            android:id="@+id/tv_brand_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@id/iv_logo"
+            android:layout_marginStart="16dp"
+            android:layout_toEndOf="@id/iv_logo"
+            android:textAppearance="@style/TextAppearance.Material3.TitleMedium"
+            tools:text="@tools:sample/lorem" />
+
+        <TextView
+            android:id="@+id/tv_brand_overview"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tv_brand_name"
+            android:layout_alignStart="@id/tv_brand_name"
+            android:layout_marginTop="8dp"
+            android:layout_toEndOf="@id/iv_logo"
+            android:ellipsize="end"
+            android:maxLines="4"
+            android:textAppearance="@style/TextAppearance.Material3.BodySmall"
+            tools:text="@tools:sample/lorem/random" />
+    </RelativeLayout>
+</com.google.android.material.card.MaterialCardView>

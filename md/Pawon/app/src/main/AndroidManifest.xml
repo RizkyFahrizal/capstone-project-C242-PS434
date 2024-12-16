@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name1"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.StaterUpPage"
+        tools:targetApi="31">
+
+        <activity
+            android:name=".food.foodPahit.DetailFoodPahitActivity"
+            android:exported="false" />
+        <activity
+            android:name=".food.foodPahit.FoodPahitActivity"
+            android:exported="false" />
+        <activity
+            android:name=".food.foodPedas.DetailFoodPedasActivity"
+            android:exported="false" />
+        <activity
+            android:name=".food.foodPedas.FoodPedasActivity"
+            android:exported="false" />
+        <activity
+            android:name=".food.foodAsam.DetailFoodAsamActivity"
+            android:exported="false" />
+        <activity
+            android:name=".food.foodAsam.FoodAsamActivity"
+            android:exported="false" />
+        <activity
+            android:name=".food.foodManis.DetailFoodManisActivity"
+            android:exported="false" />
+        <activity
+            android:name=".food.foodManis.FoodManisActivity"
+            android:exported="false" />
+        <activity
+            android:name=".food.foodgurih.DetailFoodGurihActivity"
+            android:exported="false" />
+        <activity
+            android:name=".food.foodgurih.FoodGurihActivity"
+            android:exported="false" />
+        <activity
+            android:name=".food.foodAsin.DetailFoodAsinActivity"
+            android:exported="false" />
+        <activity
+            android:name=".food.foodAsin.FoodAsinActivity"
+            android:exported="false" />
+        <activity
+            android:name=".welcome.WelcomeActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".register.RegisterActivity"
+            android:exported="false" />
+        <activity
+            android:name=".login.LoginActivity"
+            android:exported="false" />
+        <activity
+            android:name=".home.HomeActivity"
+            android:exported="false" />
+    </application>
+
+</manifest>

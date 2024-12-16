@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/secondary"
+    tools:context=".food.foodgurih.DetailFoodGurihActivity">
+
+    <com.google.android.material.appbar.MaterialToolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/toolbar">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:id="@+id/iv_banner"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:importantForAccessibility="no"
+                android:scaleType="centerCrop"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                tools:src="@tools:sample/backgrounds/scenic" />
+
+
+            <TextView
+                android:id="@+id/label_brand_name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="16dp"
+                android:layout_marginTop="16dp"
+                android:text="@string/label_brand_name"
+                android:textAppearance="@style/TextAppearance.Material3.BodySmall"
+                android:textStyle="bold"
+                android:textSize="16sp"
+                app:layout_constraintTop_toBottomOf="@id/iv_banner" />
+
+            <TextView
+                android:id="@+id/tv_brand_name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="16dp"
+                android:layout_marginTop="8dp"
+                android:textAppearance="@style/TextAppearance.Material3.BodyLarge"
+                app:layout_constraintTop_toBottomOf="@id/label_brand_name"
+                tools:text="@tools:sample/lorem" />
+
+            <TextView
+                android:id="@+id/label_brand_description"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="16dp"
+                android:layout_marginTop="20dp"
+                android:text="@string/label_description"
+                android:textAppearance="@style/TextAppearance.Material3.BodySmall"
+                android:textStyle="bold"
+                android:textSize="16sp"
+                app:layout_constraintTop_toBottomOf="@id/tv_brand_name" />
+
+            <TextView
+                android:id="@+id/tv_brand_description"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="16dp"
+                android:layout_marginTop="8dp"
+                android:textAppearance="@style/TextAppearance.Material3.BodyLarge"
+                app:layout_constraintTop_toBottomOf="@id/label_brand_description"
+                tools:text="@tools:sample/lorem" />
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </ScrollView>
+</RelativeLayout>

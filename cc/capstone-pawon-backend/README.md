@@ -1,4 +1,4 @@
-# Hello, there!. Let's deploy back-end part with Cloud Run Functions 🚀🚀
+# deploy back-end part with Cloud Run
 
 1. Build Docker by dockerfile
 

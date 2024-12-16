@@ -38,15 +38,3 @@ docker build -t gcr.io/[PROJECT_ID]/[SERVICE_NAME] .
 - **Awair**
 
    [Awair Repository Link](https://github.com/RizkyFahrizal/capstone-project-C242-PS434/edit/main/cc/capstone-pawon-backend)
-
-## Additional Sections (Optional)
-
-**You can add more sections as needed, such as:**
-
-### Installation
-
-**Instructions on how to install your project:**
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/your-username/your-project.git]([https://github.com/your-username/your-project.git](https://github.com/RizkyFahrizal/capstone-project-C242-PS434.git))

@@ -7,7 +7,7 @@ import { InputError } from '../exceptions/InputError.js';
 
 (async () => {
   const server = Hapi.server({
-    port: 8080,
+    port: process.env.PORT || 8080,
     host: '0.0.0.0',
     routes: {
       cors: {
@@ -30,7 +30,7 @@ import { InputError } from '../exceptions/InputError.js';
     if (response instanceof InputError) {
       const newResponse = h.response({
         status: 'fail',
-        message: `Terjadi kesalahan dalam mengakses API`,
+        message: `Terjadi kesalahan saat mengakses API`,
       });
       newResponse.code(response.statusCode);
       return newResponse;

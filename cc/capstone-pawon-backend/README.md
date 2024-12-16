@@ -30,7 +30,7 @@ docker build -t gcr.io/[PROJECT_ID]/[SERVICE_NAME] .
 
 - **Awair**
 
-   [Awair Repository Link]([https://github.com/your-username/awair](https://github.com/RizkyFahrizal/capstone-project-C242-PS434/edit/main/cc/capstone-pawon-backend))
+   [Awair Repository Link](https://github.com/RizkyFahrizal/capstone-project-C242-PS434/edit/main/cc/capstone-pawon-backend)
 
 ## Additional Sections (Optional)
 
@@ -42,4 +42,4 @@ docker build -t gcr.io/[PROJECT_ID]/[SERVICE_NAME] .
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/your-project.git](https://github.com/your-username/your-project.git)
+   git clone [https://github.com/your-username/your-project.git]([https://github.com/your-username/your-project.git](https://github.com/RizkyFahrizal/capstone-project-C242-PS434.git))
